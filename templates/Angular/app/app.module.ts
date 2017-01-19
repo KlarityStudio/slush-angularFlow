@@ -10,7 +10,7 @@ import { HttpModule } from '@angular/http';
 @NgModule({
 	imports:      [ 
 	BrowserModule,
-    routing,
+    // routing,
     FormsModule,
     HttpModule,
 	],
